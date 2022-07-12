@@ -6,4 +6,6 @@
 
 ### 🤟🧡 Algunos repositorios compartidos por tus compañeros de cursada
 
--🔶 Juand 1- Algo [Repo de ](https://youtu.be/5tP1Ra73c38)
+- 🔶 Daniela Alvarez- [Desafío 12 - Login ](https://github.com/Dansol79/Back.clase24)
+- 🔶 Valentin Ruggieri- [Desafío 12 - Login ](https://github.com/valen-ruggieri/Valentin_Ruggieri_Cookies_And_Session)
+- 🔶 Ronald Palacios- [Desafío 12 - Login ](https://github.com/RonaldPalacios/coderhouse/tree/main/login%20in)
