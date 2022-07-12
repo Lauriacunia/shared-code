@@ -6,6 +6,8 @@
 
 ### 🤟🧡 Algunos repositorios compartidos por tus compañeros de cursada
 
+```
 |Alumno| Desafío |Repositorio |
 | Juand | 1- Algo | [Repo de ](https://youtu.be/5tP1Ra73c38) |
 | | |
+```
