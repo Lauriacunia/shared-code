@@ -9,3 +9,7 @@
 - 🔶 Daniela Alvarez- [Desafío 12 - Login ](https://github.com/Dansol79/Back.clase24)
 - 🔶 Valentin Ruggieri- [Desafío 12 - Login ](https://github.com/valen-ruggieri/Valentin_Ruggieri_Cookies_And_Session)
 - 🔶 Ronald Palacios- [Desafío 12 - Login ](https://github.com/RonaldPalacios/coderhouse/tree/main/login%20in)
+- 🔶 Leandro Wagner- [Desafío 12 - Login ](https://github.com/Lean-2021/session-storage)
+- 🔶 Sofia Marchesini- [Desafío 12 - Login ](https://github.com/sofimarchesini/BackendCourse/tree/main/ProyectoFinal/back)
+- 🔶 Valentin Ruggieri - [Desafío 13 - Passport ](https://github.com/valen-ruggieri/Valentin_Ruggieri_Authorization_And_Authentication)
+- 🔶 Leandro Wagner - [Desafío 13 - Passport ](https://github.com/Lean-2021/login)
