@@ -13,3 +13,5 @@
 - 🔶 Sofia Marchesini- [Desafío 12 - Login ](https://github.com/sofimarchesini/BackendCourse/tree/main/ProyectoFinal/back)
 - 🔶 Valentin Ruggieri - [Desafío 13 - Passport ](https://github.com/valen-ruggieri/Valentin_Ruggieri_Authorization_And_Authentication)
 - 🔶 Leandro Wagner - [Desafío 13 - Passport ](https://github.com/Lean-2021/login)
+- 🔶 Daniela Alvarez - [Desafío 15 - Nginx ](https://github.com/Dansol79/Back-clase30/tree/main/desafio15)
+- 🔶 Leandro Wagner - [Desafío 15 - Passport ](https://github.com/Lean-2021/nginx)
