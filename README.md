@@ -15,3 +15,9 @@
 - 🔶 Leandro Wagner - [Desafío 13 - Passport ](https://github.com/Lean-2021/login)
 - 🔶 Daniela Alvarez - [Desafío 15 - Nginx ](https://github.com/Dansol79/Back-clase30/tree/main/desafio15)
 - 🔶 Leandro Wagner - [Desafío 15 - Passport ](https://github.com/Lean-2021/nginx)
+
+- 🔶 Roberto Ojeda - [Desafío 21 - Testing ](https://docs.google.com/document/d/1Xqr5wgvXEAXE9rFIVsXo26YEaU-Le8zAxrybi3DtLNU/edit?usp=sharing)
+- 🔶 Ronald Palacios - [Desafío 21 - Testing ](https://github.com/RonaldPalacios/coderhouse/blob/main/testApi/test/appTest.js)
+- 🔶 Leandro wagner - [Desafío 21 - Testing ](https://github.com/Lean-2021/test-api/blob/master/test/test-dataProduct.js)
+- 🔶 Daniela Alvarez - [Desafío 21 - Testing ](https://github.com/Dansol79/Back-clase42/tree/main/desafio21/test)
+- 🔶 Sofia Marchesini - [Desafío 21 - Testing ](https://github.com/sofimarchesini/BackendCourse/blob/main/ProyectoFinal/back/src/Test/testmocha.js)
