@@ -15,7 +15,9 @@
 - 🔶 Leandro Wagner - [Desafío 13 - Passport ](https://github.com/Lean-2021/login)
 - 🔶 Daniela Alvarez - [Desafío 15 - Nginx ](https://github.com/Dansol79/Back-clase30/tree/main/desafio15)
 - 🔶 Leandro Wagner - [Desafío 15 - Passport ](https://github.com/Lean-2021/nginx)
-
+- 🔶 Daniela Alvarez - [Desafío 20 - Arquitectura de servidor y persistencia ](https://github.com/Dansol79/Back-clase40.git)
+- 🔶 Francisco Feijoo - [Desafío 20 - Arquitectura de servidor y persistencia ](https://github.com/f-feijoo/mejora-arquitectura-api)
+- 🔶 Leandro Wagner - [Desafío 20 - Arquitectura de servidor y persistencia ](<https://github.com/Lean-2021/arquitectura-servidor.git())
 - 🔶 Roberto Ojeda - [Desafío 21 - Testing ](https://docs.google.com/document/d/1Xqr5wgvXEAXE9rFIVsXo26YEaU-Le8zAxrybi3DtLNU/edit?usp=sharing)
 - 🔶 Ronald Palacios - [Desafío 21 - Testing ](https://github.com/RonaldPalacios/coderhouse/blob/main/testApi/test/appTest.js)
 - 🔶 Leandro wagner - [Desafío 21 - Testing ](https://github.com/Lean-2021/test-api/blob/master/test/test-dataProduct.js)
